@@ -6,3 +6,4 @@ Casualties by Road Type.
 Casualties by Area Wise.
 Casualties by Day/Night.
 Casualties by Location.
+https://github.com/KarthikS5/Road-Accident-Analyis-/issues/1#issue-1795010218
